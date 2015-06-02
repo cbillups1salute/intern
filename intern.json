@@ -1,0 +1,44 @@
+{
+    "name": "Bowen Gao",
+    "url": "http://intern.fieldmuseum.ninja/2015/",
+    "phone": 3129124007,
+    "address": {
+        "streetdirection": "west",
+        "streetnumber": 648,
+        "country": "us",
+        "unit": 3,
+        "zip": 60613,
+        "city": "chicago",
+        "state": "IL"
+    },
+    "Skills": [
+        "html5",
+        "css3",
+        "bootstrap",
+        "javascript",
+        "jquery",
+        "php",
+        "jsp",
+        "java",
+        "mysql",
+        "objective-c"
+    ],
+    "experiences": {
+        "organization ": "a&ez solution",
+        "tittle": "web programmer",
+        "start year": "jan 2015",
+        "end year": "may 2015",
+        "description": "Build and design web pages by html5 css3 and javascript and jquery ui"
+    },
+    "eduction": "master",
+    "schoolname": "University of Illinois at Chicago",
+    "graduationyear": "2015 jan",
+    "concentration ": "web developer and web programmer",
+    "availability": {
+        "mon": true,
+        "tue": true,
+        "wed": false,
+        "thu": true,
+        "fri": true
+    }
+}
